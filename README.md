@@ -1,5 +1,5 @@
 # LiteBrite
-A WPF application that allows the user to save pictures created by dragging colored pegs onto a black background.
+WPF application that allows the user to save pictures created by dragging colored pegs onto a black background.
 
 ## Usage
 ```
