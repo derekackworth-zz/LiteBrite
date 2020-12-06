@@ -4,6 +4,8 @@ WPF application that allows the user to save pictures created by dragging colore
 ## Usage
 ```
 Start LiteBrite: LiteBrite.exe
+
+Click and drag colors onto the LiteBrite board.
 ```
 
 ![screenshot](screenshot.png)
